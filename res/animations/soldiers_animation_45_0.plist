@@ -7745,13 +7745,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>soldiers_animation_45_0.pvr.ccz</string>
+            <string>soldiers_animation_45_0.png</string>
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9eedc2b5788bb4997947cfb9fb31451d:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:a51ffe7af45c25e059daed582ad6f771:1/1$</string>
             <key>textureFileName</key>
-            <string>soldiers_animation_45_0.pvr.ccz</string>
+            <string>soldiers_animation_45_0.png</string>
         </dict>
     </dict>
 </plist>

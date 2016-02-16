@@ -114,13 +114,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>airship0.pvr.ccz</string>
+            <string>airship0.png</string>
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bdaf16aa7a75e829b0842100ad22bcf4:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:a35daaddd8dbfe3be8959bb244fa9210:1/1$</string>
             <key>textureFileName</key>
-            <string>airship0.pvr.ccz</string>
+            <string>airship0.png</string>
         </dict>
     </dict>
 </plist>
