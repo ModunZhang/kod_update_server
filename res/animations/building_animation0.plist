@@ -2129,13 +2129,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>building_animation0.pvr.ccz</string>
+            <string>building_animation0.png</string>
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2c75648a403efc86df10a2a4124dd982:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:ad9acc2323037a77d7aed8a84f67fa2d:1/1$</string>
             <key>textureFileName</key>
-            <string>building_animation0.pvr.ccz</string>
+            <string>building_animation0.png</string>
         </dict>
     </dict>
 </plist>
