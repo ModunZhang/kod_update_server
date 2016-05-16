@@ -530,13 +530,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>dragon_breath_0.pvr.ccz</string>
+            <string>dragon_breath_0.png</string>
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c135f83c0b5225d2d80ac185034b6090:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:05be731e5d0a1c2e87de6d31036d6b59:1/1$</string>
             <key>textureFileName</key>
-            <string>dragon_breath_0.pvr.ccz</string>
+            <string>dragon_breath_0.png</string>
         </dict>
     </dict>
 </plist>

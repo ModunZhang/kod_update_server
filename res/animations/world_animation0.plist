@@ -166,13 +166,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>world_animation0.pvr.ccz</string>
+            <string>world_animation0.png</string>
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:99991d1fc980e0639285a3273151f0e5:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:dbdc071c264f06baaa975bd75eb0c37b:1/1$</string>
             <key>textureFileName</key>
-            <string>world_animation0.pvr.ccz</string>
+            <string>world_animation0.png</string>
         </dict>
     </dict>
 </plist>
